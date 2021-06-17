@@ -2,9 +2,9 @@
 
 <br />
 
-- 🔭 I’m currently an Engineering STUDENT!
-- 💬 UI/UX Design,Web Development and An Android Development Newbie
-- 📫 Reach me through nandhithaa2305@gmail.com
+- 👩🏽‍💻 I’m currently an Engineering STUDENT!
+- ⚙️ UI/UX Design,Web Development and An Android Development Newbie
+- ✉️ Reach me through nandhithaa2305@gmail.com
 
 <br />
 
