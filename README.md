@@ -2,6 +2,12 @@
 
 <br />
 
+- 🔭 I’m currently an Engineering STUDENT!
+- 💬 UI/UX Design,Web Development and An Android Development Newbie
+- 📫 Reach me through nandhithaa2305@gmail.com
+
+<br />
+
 <a href="https://www.linkedin.com/in/nandhithaa-balachander-b21983192/">
   <img align="left" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,13 +17,6 @@
 </a>
 
 <br />
-
-<br />
-
-### About Me:
-- 🔭 I’m currently an Engineering STUDENT!
-- 💬 UI/UX Design,Web Development and An Android Development Newbie
-- 📫 Reach me through nandhithaa2305@gmail.com
 
 ### Worked in:
 <code><img height="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
