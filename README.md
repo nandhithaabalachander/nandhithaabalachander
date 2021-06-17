@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/nandhithaa-balachander-b21983192/">
+<a href="https://www.linkedin.com/in/nandhithaa-balachander/">
   <img align="left" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
