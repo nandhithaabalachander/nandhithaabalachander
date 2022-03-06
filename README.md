@@ -3,7 +3,7 @@
 <br />
 
 - 👩🏽‍💻 I’m currently an Engineering STUDENT!
-- ⚙️ UI/UX Design,Web Development and An Android Development Newbie
+- ⚙️ UX/UI Designer, FrontEnd Developer and An Android Development Newbie
 - ✉️ Reach me through nandhithaa2305@gmail.com
 
 <br />
@@ -12,7 +12,7 @@
   <img align="left" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/nandhithaa_balachander/">
+<a href="https://www.instagram.com/nandhithaa23/">
   <img align="left" alt="instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
