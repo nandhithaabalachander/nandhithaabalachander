@@ -12,7 +12,7 @@
   <img align="left" alt="LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/nandhithaa23/">
+<a href="https://www.instagram.com/nandhithaa_balachander/">
   <img align="left" alt="instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
